@@ -30,7 +30,7 @@ Das ich
 <Text mt="md"mb={30} c="dark"size={20}>
 i love and hate my life at the same time
 </Text>
-<Carousel  loop mb={25} c="dark" slideSize={20}>
+<Carousel  loop mb={25} c="dark" >
   <Carousel.Slide>Hobbys</Carousel.Slide>
   <Carousel.Slide>Hip Hop</Carousel.Slide>
   <Carousel.Slide>Tennis</Carousel.Slide>
