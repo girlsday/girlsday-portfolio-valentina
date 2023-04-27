@@ -30,15 +30,15 @@ Das ich
 <Text mt="md"mb={30} c="dark"size={20}>
 i love and hate my life at the same time
 </Text>
-<Carousel  loop mb={25} c="dark" size={20}>
-          <Carousel.Slide>Hobbys</Carousel.Slide>
-          <Carousel.Slide>Hip Hop</Carousel.Slide>
-          <Carousel.Slide>Tennis</Carousel.Slide>
-          <Carousel.Slide>Klavier</Carousel.Slide>
-          <Carousel.Slide>Freunde treffen</Carousel.Slide>
-          <Carousel.Slide>Familie treffen</Carousel.Slide>
-          <Carousel.Slide>Feiern zu gehen</Carousel.Slide>
-        </Carousel>
+<Carousel  loop mb={25} c="dark" slideSize={20}>
+  <Carousel.Slide>Hobbys</Carousel.Slide>
+  <Carousel.Slide>Hip Hop</Carousel.Slide>
+  <Carousel.Slide>Tennis</Carousel.Slide>
+  <Carousel.Slide>Klavier</Carousel.Slide>
+  <Carousel.Slide>Freunde treffen</Carousel.Slide>
+  <Carousel.Slide>Familie treffen</Carousel.Slide>
+  <Carousel.Slide>Feiern zu gehen</Carousel.Slide>
+</Carousel>
         <Text mt="md"mb={30} size={20} c="dark">
 ich bin geboren um meine jugend zu leben 
 </Text>
